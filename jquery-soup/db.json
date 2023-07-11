@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Killer",
+      "year": 2022,
+      "country": "South Korea",
+      "genre": "action, crime"
+    },
+    {
+      "id": 2,
+      "name": "Parasite",
+      "year": 2019,
+      "country": "South Korea",
+      "genre": "thriller, drama"
+    }
+  ]
+}

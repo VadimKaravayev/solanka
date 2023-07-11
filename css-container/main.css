@@ -1,0 +1,13 @@
+/* .card {
+  container-type: inline-size;
+} */
+
+.card__content {
+  container-type: inline-size;
+}
+
+@container (min-width: 400px) {
+  .text {
+    color: pink;
+  }
+}
