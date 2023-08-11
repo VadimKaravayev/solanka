@@ -1,0 +1,13 @@
+{
+  "name": "scorekeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elm.js",
+  "scripts": {
+    "compile": "elm make src/Main.elm --output elm.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
